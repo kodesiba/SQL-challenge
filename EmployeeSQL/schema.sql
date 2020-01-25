@@ -1,0 +1,1 @@
+-- Schema for setup of EmployeeSQL database

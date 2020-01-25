@@ -1,1 +1,1 @@
--- Schema for setup of EmployeeSQL database
+-- Queries for EmployeeSQL database

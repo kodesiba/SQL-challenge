@@ -5,7 +5,7 @@ CREATE TABLE departments (
 );
 
 CREATE TABLE dept_emp (
-  emp_no INT PRIMARY KEY,
+  emp_no INT,
   dept_no VARCHAR(10),
   from_date DATE,
   to_date DATE
@@ -35,7 +35,7 @@ CREATE TABLE salaries (
 );
 
 CREATE TABLE titles (
-  emp_no INT PRIMARY KEY,
+  emp_no INT,
   title VARCHAR(50),
   from_date DATE,
   to_date DATE

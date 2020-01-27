@@ -1,5 +1,8 @@
+# file to hold config info
+config.py
+
 # Jupyter Notebook
 .ipynb_checkpoints
 
-#pycache
+# pycache
 __pycache__/
